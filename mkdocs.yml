@@ -1,0 +1,51 @@
+site_name: OptiVisionLab
+site_url: https://optivisionlab.github.io/labs/
+repo_url: https://github.com/optivisionlab/labs
+repo_name: optivisionlab/labs
+
+extra:
+  social:
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/@meoluoiai
+    - icon: fontawesome/brands/facebook
+      link: https://www.facebook.com/meoluoiai/
+
+copyright: Copyright © 2025 OptiVisionLab
+
+extra_css:
+  - assets/custom.css
+
+theme:
+  name: material
+  favicon: assets/logo.png
+  custom_dir: overrides
+  logo: assets/logo.png
+  palette:
+    # Palette toggle for light vs dark mode
+    - scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+
+nav:
+  - Trang chủ: index.md
+  - Nghiên cứu:
+    - 'Tổng quan': research.md
+    - 'Tiêu đề bài viết đầu tiên': posts/post1.md
+  - Ấn phẩm: publications.md
+  - Sản phẩm: products.md
+  - Dữ liệu: datasets.md
+  - Thành viên: people.md
+  - Tin tức: news.md
+  - Liên hệ: contact.md
