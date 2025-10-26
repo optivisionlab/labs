@@ -1,5 +1,6 @@
 site_name: OptiVisionLab
 site_url: https://optivisionlab.github.io/labs/
+site_description: Trang chủ của OptiVisionLab, nơi chia sẻ các nghiên cứu, sản phẩm và kiến thức về Thị giác máy tính và Học máy.
 repo_url: https://github.com/optivisionlab/labs
 repo_name: optivisionlab/labs
 
@@ -17,6 +18,14 @@ extra_css:
 
 theme:
   name: material
+  features:
+    - content.code.copy
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - header.autohide
   favicon: assets/logo.png
   custom_dir: overrides
   logo: assets/logo.png
@@ -30,13 +39,6 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
-  features:
-    - navigation.tabs
-    - navigation.sections
-    - navigation.top
-    - search.suggest
-    - search.highlight
-    - content.code.copy
 
 nav:
   - Trang chủ: index.md

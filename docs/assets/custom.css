@@ -10,9 +10,15 @@
   margin-right: 0.2rem; /* Giảm khoảng cách bên phải */
 }
 
-/* Giảm chiều cao của header */
+/* Giảm chiều cao của header và đổi màu nền */
 .md-header {
-  height: 2.2rem; /* Bạn có thể điều chỉnh giá trị này */
+  height: 3.5rem; /* Bạn có thể điều chỉnh giá trị này */
+  background-color: #083970;
+}
+
+/* Đổi màu nền của thanh menu */
+.md-tabs {
+  background-color: #083970;
 }
 
 /* Căn giữa copyright trong footer */

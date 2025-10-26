@@ -3,13 +3,15 @@
 ## Người sáng lập & Hướng dẫn
 
 - **Đỗ Mạnh Quang (Founder)**  
-  Giảng viên Khoa Khoa học máy tính, Viện CNTT&TT, HaUI
+  Giảng viên Khoa Khoa học máy tính, SICT, HaUI
 
 ## Học viên Cao học
 
 - **Lưu Minh Quân**  
   Học viên Cao học tại OptiVisionLab, SICT, HaUI
 - **Chu Huy Hoàng**  
+  Học viên Cao học tại OptiVisionLab, SICT, HaUI
+- **Nguyễn Thị Lan**  
   Học viên Cao học tại OptiVisionLab, SICT, HaUI
 
 ## Thành viên nghiên cứu
@@ -35,14 +37,12 @@
 - **Nguyễn Quốc Anh**  
   Trợ lý nghiên cứu sinh viên tại OptiVisionLab, SICT, HaUI
 
-## Cựu thành viên
+## Sinh viên đã tốt nghiệp
 
 - **Nguyễn Thị Mỹ Khánh**  
   BA tại FPT
 - **Trần Xuân Đức**  
   Đã tốt nghiệp
-- **Nguyễn Thị Lan**  
-  PQA tại NTQ Solution JSC
 - **Nguyễn Hồng Quân**  
   Kỹ sư An ninh Ứng dụng tại Techcombank
 - **Nguyễn Thanh Long**  
