@@ -21,6 +21,11 @@
   background-color: #083970;
 }
 
+/* Tăng phạm vi nhấp chuột cho các mục menu */
+.md-tabs__link {
+  padding: 0 1.2rem; /* Tăng padding ngang */
+}
+
 /* Căn giữa copyright trong footer */
 .md-copyright {
   text-align: center;
