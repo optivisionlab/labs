@@ -1,0 +1,32 @@
+/* Tăng kích thước logo trong header */
+.md-header__button.md-logo img, 
+.md-header__button.md-logo svg {
+  height: 2.5rem; /* Điều chỉnh lại kích thước logo cho phù hợp với header mới */
+  width: auto;
+}
+
+/* Giảm khoảng cách giữa logo và tiêu đề */
+.md-header__button.md-logo {
+  margin-right: 0.2rem; /* Giảm khoảng cách bên phải */
+}
+
+/* Giảm chiều cao của header và đổi màu nền */
+.md-header {
+  height: 3.5rem; /* Bạn có thể điều chỉnh giá trị này */
+  background-color: #083970;
+}
+
+/* Đổi màu nền của thanh menu */
+.md-tabs {
+  background-color: #083970;
+}
+
+/* Tăng phạm vi nhấp chuột cho các mục menu */
+.md-tabs__link {
+  padding: 0 1.2rem; /* Tăng padding ngang */
+}
+
+/* Căn giữa copyright trong footer */
+.md-copyright {
+  text-align: center;
+}
